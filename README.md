@@ -5,3 +5,4 @@
 ## Themen
 Vorlage für eine einfache JavaFX-Anwendung mit dem SceneBuilder
 App ist der Startpunkt der Anwendung.
+Controller ist die Controllerklasse.
